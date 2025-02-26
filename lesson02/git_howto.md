@@ -9,6 +9,6 @@ git add
 git commit -m "Message"
 git log 
 git log --oneline
-git cheackout
+git cheackout <бренч нейм по русский>
 git branch
 git merge
