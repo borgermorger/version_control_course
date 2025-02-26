@@ -10,3 +10,5 @@ git commit -m "Message"
 git log 
 git log --oneline
 git cheackout
+git branch
+git merge
