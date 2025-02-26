@@ -62,6 +62,8 @@ git cheackout <hash>
 git dif <hash> <another hash>
 ```
 
+# Работа с ветками
+
 Отоброжение всех веток
 ```sh
 git branch
