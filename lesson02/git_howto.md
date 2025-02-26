@@ -67,3 +67,7 @@ git dif <hash> <another hash>
 git branch
 ```
 
+Перекллючение между ветками происходит через checkout:
+```sh
+git checkout <branch_name>
+```
