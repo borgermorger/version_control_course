@@ -62,18 +62,9 @@ git cheackout <hash>
 git dif <hash> <another hash>
 ```
 
-Отоброжение всех веток
-```sh
-git branch
-```
+## Удаление веток
 
-Перекллючение между ветками происходит через checkout:
+После слияния ненужные ветки можно удалить:
 ```sh
-git checkout <branch_name>
+git branch -d <имя_ветки>
 ```
-
-Создание новой ветки
-```sh
-git branch <branch_name>
-```
-
