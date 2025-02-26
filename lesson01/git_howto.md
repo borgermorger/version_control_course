@@ -15,6 +15,12 @@ git status
 ```sh
 git add
 ```
+Или можно отменить измения командой:
+```sh
+git restore
+```
+Он вернет все обратно к версии до измения
+
 
 git commit -m "Message"
 git log 
